@@ -1,0 +1,38 @@
+testenv.local
+
+SECRET Radius
+radius
+
+DomainController1 - admin
+admin
+admin
+
+TESTENV\erasta --> per testing reparto IT
+Bestia01
+
+TESTENV\mstrumolo --> per testing reparto HR
+Vito03
+
+TESTENV\pdaniele
+Tommy03
+
+TESTENV\rgaetano
+Gabro98
+
+TESTENV\aesposito
+Bestia00
+
+TESTENV\gcaggiano
+Bestia02
+
+TESTENV\ivitale
+Giorgio02
+
+TESTENV\amarotta
+Daniel43
+
+TESTENV\clombardi
+Lorenzo97
+
+TESTENV\prusso
+Moron03
